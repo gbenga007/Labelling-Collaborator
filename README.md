@@ -24,3 +24,7 @@ tion tasks. The experimental results have shown that our
 proposed pipeline is capable of producing superior results
 in both binary and multi-class problems compared to the
 state-of-the-art zero-shot classification methods.
+![LC_pipeline](https://github.com/user-attachments/assets/6819ffe1-edaf-49ce-99c9-90d8e94af76d)
+
+
+
